@@ -1,0 +1,64 @@
+{
+  "id": "01_thermos",
+  "brief": {
+    "brand": "써모스",
+    "product": {
+      "name": "써모스 더 콤팩트 스트로 컵앤텀블러 720ml",
+      "category": "생활용품",
+      "description": "손잡이와 빨대가 달린 스테인리스 진공 단열 컵",
+      "visual_identifiers": ["크림색 무광 바디", "손잡이", "빨대 뚜껑"],
+      "reference_images": [
+        { "id": "p1", "file": "products/product_01.png", "view": "크림 색상", "kind": "packshot" },
+        { "id": "p2", "file": "products/product_02.png", "view": "아이보리 색상", "kind": "variant_lineup" }
+      ]
+    },
+    "duration_sec": 15
+  },
+  "strategy": {
+    "title": "얼음 퇴근 금지",
+    "message": "얼음 퇴근 금지. 써모스 컵앤텀블러.",
+    "insight": "여름 사무실, 아침에 받아 온 얼음 음료는 오후면 녹아 미지근한 물이 된다.",
+    "idea": "하루가 흐르는 타임랩스: 해가 돌고 사람들이 흐려지며 퇴근하는 동안 책상 위 컵만 그대로 있다.",
+    "device": "visual_transformation",
+    "voice_mode": "mixed",
+    "tone": {
+      "summary": "아침 청록 → 오후 호박색 → 밤 텅스텐",
+      "brightness": "mid",
+      "color_arc": ["아침 청록", "오후 호박색", "밤 텅스텐"]
+    }
+  },
+  "cast": [
+    { "id": "hero", "role": "protagonist", "appearance": "20대 후반 여성 직장인", "wardrobe": "(벤치마크에 없음 — 지정 필요)" }
+  ],
+  "scenes": [
+    { "index": 1, "beat": "setup", "description": "아침 8시 50분. 크림색 컵 안으로 맑은 얼음이 쏟아지는 접사.",
+      "time_place": "아침 8시 50분", "shot": { "size": "extreme_closeup" }, "action": "얼음이 컵에 쏟아짐",
+      "product": { "visible": true, "state": "뚜껑 열림", "reference_image_ids": ["p1"] }, "lighting": "아침 청록",
+      "audio": { "narration": "아침 아홉 시, 얼음을 가득 담았습니다.", "dialogue": null, "sfx": ["얼음 쏟아지는 소리"] } },
+    { "index": 2, "beat": "product_use", "description": "창가 책상. 그녀가 뚜껑을 딸깍 닫고 빨대를 꽂아 책상에 두고 살짝 웃는다.",
+      "time_place": "아침 · 창가 책상", "shot": { "size": "medium" }, "characters": ["hero"], "action": "뚜껑을 닫고 빨대를 꽂음",
+      "product": { "visible": true, "state": "뚜껑 닫힘, 빨대", "reference_image_ids": ["p1"] }, "lighting": "아침 청록",
+      "audio": { "sfx": ["딸깍"] } },
+    { "index": 3, "beat": "setup", "description": "오후 2시 한여름 사무실. 블라인드 사이 호박색 햇빛과 아지랑이, 부채질하는 사람들.",
+      "time_place": "오후 2시 · 사무실", "shot": { "size": "wide" }, "action": "부채질", "lighting": "오후 호박색",
+      "audio": { "narration": "오후 두 시, 모두가 녹아내릴 때도." } },
+    { "index": 4, "beat": "turn", "description": "옆 책상의 일반 플라스틱 아이스커피는 얼음이 다 녹고 빨대가 축 처졌다.",
+      "shot": { "size": "insert" }, "action": "녹은 비교 대상 제시", "product": { "visible": false }, "lighting": "오후 호박색" },
+    { "index": 5, "beat": "turn", "description": "타임랩스. 해가 돌고 하늘이 호박색에서 자홍으로, 사람들이 흐려지며 퇴근하는 동안 컵만 그대로.",
+      "shot": { "size": "wide", "camera_move": "고정 타임랩스" }, "vfx": "사람만 모션블러로 흐려지고 컵은 고정",
+      "product": { "visible": true, "reference_image_ids": ["p1"] }, "lighting": "호박색 → 자홍",
+      "audio": { "narration": "해가 지고, 다들 퇴근해도." } },
+    { "index": 6, "beat": "payoff", "description": "밤 7시 텅 빈 사무실. 스탠드 아래 컵을 귀에 대고 흔들어 얼음 소리를 듣고 「얼음, 아직 퇴근 안 했네.」",
+      "time_place": "밤 7시 · 빈 사무실", "shot": { "size": "medium" }, "characters": ["hero"], "action": "컵을 귀에 대고 흔듦",
+      "product": { "visible": true, "reference_image_ids": ["p1"] }, "lighting": "밤 텅스텐",
+      "audio": { "dialogue": { "speaker": "hero", "line": "얼음, 아직 퇴근 안 했네.", "type": "product_praise" }, "sfx": ["얼음 달그락"] } },
+    { "index": 7, "beat": "payoff", "description": "위에서 내려다본 컵 속. 아직 그대로인 맑은 얼음이 부딪힌다.",
+      "shot": { "size": "overhead" }, "product": { "visible": true, "state": "얼음 그대로" }, "lighting": "밤 텅스텐",
+      "audio": { "narration": "얼음 퇴근 금지. 써모스 컵앤텀블러." } },
+    { "index": 8, "beat": "packshot", "description": "밤 도시 불빛 앞, 호두나무 책상 위의 컵.",
+      "shot": { "size": "medium" }, "product": { "visible": true, "reference_image_ids": ["p1"] }, "lighting": "밤 텅스텐",
+      "keyframe": { "file": "keyframes/scene_08.jpg" } }
+  ],
+  "render": { "keyframe_size": "1312x736", "video_gen_size": "854x480", "video_out_size": "1280x720" },
+  "outputs": { "video": "video.mp4", "seconds": 15, "storyline_md": "storyline.md" }
+}

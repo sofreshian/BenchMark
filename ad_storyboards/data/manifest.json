@@ -1,0 +1,776 @@
+[
+ {
+  "folder": "01_thermos",
+  "brand": "써모스",
+  "name": "얼음 퇴근 금지",
+  "message": "얼음 퇴근 금지. 써모스 컵앤텀블러.",
+  "product": "써모스 더 콤팩트 스트로 컵앤텀블러 720ml — 손잡이와 빨대가 달린 스테인리스 진공 단열 컵(크림색)",
+  "tone": "아침 청록 → 오후 호박색 → 밤 텅스텐",
+  "scenes": [
+   "아침 8시 50분. 크림색 컵 안으로 맑은 얼음이 쏟아지는 접사.",
+   "창가 책상. 그녀가 뚜껑을 딸깍 닫고 빨대를 꽂아 책상에 두고 살짝 웃는다.",
+   "오후 2시 한여름 사무실. 블라인드 사이 호박색 햇빛과 아지랑이, 부채질하는 사람들.",
+   "옆 책상의 일반 플라스틱 아이스커피는 얼음이 다 녹고 빨대가 축 처졌다.",
+   "타임랩스. 해가 돌고 하늘이 호박색에서 자홍으로, 사람들이 흐려지며 퇴근하는 동안 컵만 그대로.",
+   "밤 7시 텅 빈 사무실. 스탠드 아래 컵을 귀에 대고 흔들어 얼음 소리를 듣고 「얼음, 아직 퇴근 안 했네.」",
+   "위에서 내려다본 컵 속. 아직 그대로인 맑은 얼음이 부딪힌다.",
+   "밤 도시 불빛 앞, 호두나무 책상 위의 컵."
+  ],
+  "narration": {
+   "1": "아침 아홉 시, 얼음을 가득 담았습니다.",
+   "3": "오후 두 시, 모두가 녹아내릴 때도.",
+   "5": "해가 지고, 다들 퇴근해도.",
+   "7": "얼음 퇴근 금지. 써모스 컵앤텀블러."
+  },
+  "dialogue": {
+   "6": "얼음, 아직 퇴근 안 했네."
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.png",
+    "label": "크림 색상"
+   },
+   {
+    "file": "products/product_02.png",
+    "label": "아이보리 색상"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "02_cider",
+  "brand": "칠성사이다",
+  "name": "맑음이 터진다",
+  "message": "맑음이 터진다. 칠성사이다.",
+  "product": "롯데칠성음료 칠성사이다 — 맑은 레몬라임 탄산음료(초록 캔)",
+  "tone": "아주 밝음 — 뿌연 한낮에서 선명한 여름으로",
+  "scenes": [
+   "뜨거운 한낮. 아지랑이 앞에 물방울 맺힌 초록 캔, 바랜 듯 뿌연 도시.",
+   "뿌연 버스 정류장 벤치. 청년이 손등으로 땀을 닦으며 눈을 찡그린다.",
+   "캔 고리를 당기자 '칙' 하고 탄산 안개가 햇빛에 반짝인다.",
+   "캔에서 거품 물결이 거리를 쓸고 지나가고, 지나간 자리는 파란 하늘과 초록 나무로 선명해진다.",
+   "고개를 젖혀 한 모금. 시원한 바람에 머리가 날리고 「캬!」",
+   "얼음 잔에 사이다를 따르는 접사. 기포가 솟아오른다.",
+   "선명해진 여름 거리로 웃으며 걸어 나가는 청년. 뒤로 분수에서 노는 아이들.",
+   "파란 여름 하늘 앞 물방울 맺힌 캔, 탄산 물보라와 레몬·라임."
+  ],
+  "narration": {
+   "1": "한여름, 머릿속까지 뿌옇던 오후.",
+   "3": "캔을 따는 순간, 세상이 맑아진다.",
+   "7": "맑음이 터진다. 칠성사이다."
+  },
+  "dialogue": {
+   "5": "캬!"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.png",
+    "label": "캔"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "유리병"
+   },
+   {
+    "file": "products/product_03.png",
+    "label": "페트병"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "03_laneige",
+  "brand": "라네즈",
+  "name": "입술이 꿈꾸는 밤",
+  "message": "밤사이 채우는 입술 보습, 라네즈 립 슬리핑 마스크.",
+  "product": "라네즈 립 슬리핑 마스크 EX(베리) — 자기 전에 바르는 입술 보습 마스크, 작은 분홍 용기",
+  "tone": "밝음 — 아침 흰빛, 밤도 파스텔 분홍 조명, 꿈 장면은 밝은 파스텔",
+  "scenes": [
+   "밝은 아침 욕실 거울 앞. 각질 일어난 입술을 손끝으로 만지며 살짝 찡그린다.",
+   "분홍 조명의 저녁 침실. 침대에 앉아 분홍 병 뚜껑을 열며 미소 짓는다.",
+   "작은 스패출러로 젤리 같은 분홍 밤을 떠 올리는 접사.",
+   "눈을 반쯤 감고 입술에 톡톡 바른다.",
+   "잠든 그녀 주위로 방이 분홍 구름 하늘로 바뀌고 열매가 떠다니며, 입술이 은은히 빛난다.",
+   "아침 햇살이 커튼 사이로 들어와 협탁 위 병을 비춘다.",
+   "촉촉하고 도톰해진 입술을 손거울에 비춰 보며 환하게 웃는다.",
+   "분홍 바닥 위 열매와 함께 놓인 라네즈 병."
+  ],
+  "narration": {
+   "1": "아침마다 거칠던 입술.",
+   "3": "자는 동안, 촉촉하게 녹여 주세요.",
+   "7": "밤사이 채우는 입술 보습, 라네즈 립 슬리핑 마스크."
+  },
+  "dialogue": {},
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "정면"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "측면"
+   },
+   {
+    "file": "products/product_03.jpg",
+    "label": "뚜껑 연 모습"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "04_chocopie",
+  "brand": "오리온 초코파이情",
+  "name": "정이 번진다",
+  "message": "마음을 전하는 정, 오리온 초코파이.",
+  "product": "오리온 초코파이情 — 초콜릿을 입힌 마시멜로 파이(12개입 상자)",
+  "tone": "중간 — 비 오는 파란 저녁에서 따뜻한 금빛으로",
+  "scenes": [
+   "비 오는 저녁 파란 사무실. 지친 부장님이 모니터 앞에서 눈을 비빈다.",
+   "베이지 카디건의 동료가 초코파이 하나를 들고 망설이며 그를 바라본다.",
+   "손이 키보드 옆 책상 모서리에 초코파이를 살며시 놓는다.",
+   "그가 초코파이를 집자 금빛 온기가 해 뜨듯 사무실 전체로 번진다.",
+   "따뜻한 빛 속에서 처음으로 웃으며 한 입. 뒤에서 수줍게 웃는 동료.",
+   "밤 복도. 그가 경비 아저씨에게 초코파이를 건네고, 금빛이 복도를 따라 번진다.",
+   "비 오는 밤, 빌딩의 창이 하나씩 금빛으로 켜진다.",
+   "따뜻한 나무 탁자 위 초코파이 상자와 김 나는 차."
+  ],
+  "narration": {
+   "1": "말로 하긴 쑥스러운 마음.",
+   "4": "하나 건네면, 따뜻함이 번집니다.",
+   "7": "마음을 전하는 정, 오리온 초코파이."
+  },
+  "dialogue": {},
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.png",
+    "label": "12개입 상자"
+   },
+   {
+    "file": "products/product_02.png",
+    "label": "상세 이미지"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "05_shin",
+  "brand": "농심 신라면",
+  "name": "한 젓가락에 겨울이 녹는다",
+  "message": "한 젓가락에 겨울이 녹는다.",
+  "product": "농심 신라면 — 매운 국물 라면(빨간 봉지)",
+  "tone": "어두운 편 — 눈보라 치는 파란 밤에서 붉은 주황빛으로",
+  "scenes": [
+   "눈보라 치는 산속 캠핑장. 고드름 달린 텐트 앞, 작은 버너 곁에 세 친구가 웅크려 덜덜 떤다. 차갑고 어두운 파란 밤.",
+   "버너 위 냄비에 면과 붉은 수프가 떨어지고, 옆에는 뜯은 신라면 봉지.",
+   "펄펄 끓는 붉은 국물. 고춧가루가 돌고, 불씨처럼 빛나는 붉은 김이 피어오른다.",
+   "냄비에서 붉은 김이 물결처럼 퍼진다. 지나가는 자리마다 눈이 녹고 고드름이 떨어지며, 파란 밤이 붉은 주황빛으로 바뀐다.",
+   "빨간 패딩 친구가 오른손 젓가락으로 면을 높이 들어 올려 후 분다.",
+   "한 입 후루룩. 매워서 눈이 커지고 이마에 땀, 그리고 웃음이 터진다. 친구들도 따라 웃는다.",
+   "눈이 녹은 따뜻한 원 안에서 세 친구가 라면을 나눠 먹으며 웃는다. 비니 쓴 친구가 「역시 겨울엔 신라면이지!」",
+   "눈 내리는 밤, 랜턴 옆 김 나는 라면 한 그릇과 신라면 봉지."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "역시 겨울엔 신라면이지!"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "봉지"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "끓인 라면"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "06_bbq",
+  "brand": "BBQ 황금올리브치킨",
+  "name": "바삭, 온 동네가 들었다",
+  "message": "바삭, 온 동네가 들었다.",
+  "product": "BBQ 황금올리브치킨 — 바삭한 한국식 후라이드 치킨",
+  "tone": "밝은 편 — 따뜻한 금빛 저녁 거실과 푸른 저녁 아파트",
+  "scenes": [
+   "따뜻한 금빛 저녁 거실. 치킨 상자 뚜껑을 열자 황금빛 김이 쏟아지고 그녀가 감탄한다.",
+   "민트색 소매의 오른손이 닭다리 하나를 집어 든다. 바삭한 튀김옷이 반짝이고 김이 오른다.",
+   "한 입 '바삭'. 튀김옷이 부서지며 부스러기가 날리고 육즙 김이 터진다.",
+   "푸른 저녁 아파트 단지. 그녀의 창에서 '바삭' 소리가 금빛 물결로 퍼져, 지나가는 창마다 금빛으로 번쩍이고 비둘기가 날아오른다.",
+   "옆집 아저씨가 찻잔을 든 채 멈춘다. 창 쪽으로 천천히 고개를 돌려 냄새를 맡고 눈이 커진다.",
+   "초인종. 문 앞에 옆집 아저씨가 멋쩍게 웃으며 서 있다. 둘 다 웃음이 터진다.",
+   "둘이 나란히 앉아 치킨을 먹으며 웃는다. 아저씨가 닭다리를 들어 「역시 비비큐 황금올리브!」",
+   "김 오르는 황금빛 치킨 더미와 빨간 bb·q 상자."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "역시 비비큐 황금올리브!"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "황금올리브치킨"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "bb·q 로고"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "07_hera",
+  "brand": "헤라 블랙 쿠션",
+  "name": "아침 사진, 밤 사진 · 키비주얼 A",
+  "message": "저녁 약속에도 제 피부는 아침 그대로입니다.",
+  "product": "헤라 블랙 쿠션 파운데이션 SPF34/PA++ — 검은 케이스의 롱웨어 쿠션 파운데이션",
+  "tone": "밝은 편 — 사진관의 흰빛, 한낮 지하철, 고깃집 연기, 밤 사진관",
+  "scenes": [
+   "아침 8시 출근길 셀프 사진관. 막 앉아 머리를 넘기는 그녀, 선반엔 열린 검은 쿠션.",
+   "인화된 사진 한 장이 나오고, 왼손에 든 휴대폰 투명 케이스 뒤에 오른손으로 끼운다.",
+   "한낮의 꽉 찬 지하철. 문 옆에 선 그녀만 또렷하고, 승객들은 흐릿한 배경.",
+   "밤 9시 삼겹살 회식. 연기 너머로 그녀가 집게로 고기를 뒤집는다.",
+   "밤 11시, 같은 사진관. 친구가 비집고 들어오며 장난스러운 표정, 그녀는 한 박자 뒤에 웃음.",
+   "아침 사진과 밤 사진 두 장을 나란히 든 손. 피부가 똑같다.",
+   "친구가 두 사진을 보다 그녀 얼굴을 보고 「아침에 찍은 거랑 똑같네?」 그녀는 어깨만 으쓱, 친구가 한 박자 뒤에 웃음.",
+   "두 장의 사진 위에 놓인 헤라 블랙 쿠션."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "아침에 찍은 거랑 똑같네?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "단품(연 모습)"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "케이스 열고 닫은 모습"
+   },
+   {
+    "file": "products/product_03.jpg",
+    "label": "여러 호수"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "08_lactofit",
+  "brand": "종근당건강 락토핏 골드",
+  "name": "냉장고 위 노란 줄 · 키비주얼 A",
+  "message": "하루 한 포가 장과 면역을 함께 챙깁니다.",
+  "product": "종근당건강 락토핏 골드 — 아연을 더한 생유산균, 노란 통에 2g 스틱 50포",
+  "tone": "밝음 — 아침 부엌, 비 오는 사무실, 맑은 산 정상",
+  "scenes": [
+   "왼손에 든 노란 스틱의 끝을 오른손이 '칙' 뜯는다.",
+   "아침 7시 부엌, 옆모습. 고개를 젖히고 기울인 스틱에서 가루가 혀 위로 흐른다(물 없이).",
+   "빈 스틱을 냉장고 문 노란 줄 끝에 자석으로 붙인다.",
+   "비 오는 날 사무실 책상, 같은 옆모습 · 같은 동작으로 가루를 털어 넣는다.",
+   "맑은 날 산 정상, 같은 옆모습 · 같은 동작. 털어 넣고 숨을 크게 쉰다.",
+   "50일 뒤 냉장고 문. 빈 노란 스틱이 줄줄이 문 전체를 채웠다.",
+   "룸메이트가 냉장고를 열다 멈춰 노란 줄을 보고 「이게 다 하루 한 포씩이야?」 그녀는 고개만 끄덕, 룸메이트가 한 박자 뒤에 웃음.",
+   "부엌 조리대 위 새 락토핏 골드 통과 스틱 한 포, 뒤로 노란 줄 냉장고."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "이게 다 하루 한 포씩이야?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "통과 스틱"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "09_cass",
+  "brand": "카스 0.0",
+  "name": "다음 날 아침 해장국집 · 키비주얼 A",
+  "message": "오늘을 즐기고 내일을 멀쩡하게 가져갑니다.",
+  "product": "카스 0.0 — 무알코올 맥주(은색 캔)",
+  "tone": "밤의 노래방 조명에서 아침 해장국집의 하얀 김으로",
+  "scenes": [
+   "밤의 노래방. 마이크를 든 그녀가 막 환호하려는 참, 왼손엔 카스 0.0. 뒤의 동료들은 흐릿하다.",
+   "노래방 탁자 위 차가운 카스 0.0. 오른손 하나가 들어와 검지로 따개를 당긴다.",
+   "팀장이 탬버린을 머리 위로 들고 한 바퀴 돌다 비틀, 그녀는 입을 가렸다가 한 박자 뒤에 웃음.",
+   "다음 날 아침 8시 해장국집. 선글라스 쓴 팀장이 국밥 앞에서 관자놀이를 천천히 문지른다. 뒤 팀원들은 흐릿하게 엎드려 있다.",
+   "문이 열리고 그녀가 성큼 걸어 들어오며 손을 흔든다.",
+   "그녀는 국밥을 맛있게 뜨고, 팀장은 선글라스를 천천히 내려 그녀를 빤히 본다.",
+   "팀장 「너 어제 우리랑 같이 놀았잖아…?」 그녀는 어깨만 으쓱하고 계속 먹고, 팀장은 한 박자 뒤에 테이블에 고개를 묻는다.",
+   "아침 햇살 속 스테인리스 테이블 위 차가운 카스 0.0 한 캔, 옆에 어젯밤 탬버린."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "너 어제 우리랑 같이 놀았잖아…?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "캔"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "10_toomba",
+  "brand": "농심 신라면 툼바",
+  "name": "냅킨 레시피 · 키비주얼 A",
+  "message": "당신이 만든 레시피가 신라면 툼바가 됐습니다.",
+  "product": "농심 신라면 툼바 큰사발 — 크림 소스의 매운 컵라면",
+  "tone": "밤의 자취방 불빛에서 연구실의 하얀 빛, 밝은 밤 편의점으로",
+  "scenes": [
+   "밤 자취방 부엌. 그가 끓는 라면 위로 우유팩을 기울이기 시작한다.",
+   "냄비 접사. 붉은 국물이 우유와 치즈를 만나 꾸덕한 주황빛 크림으로 변한다.",
+   "냅킨에 그림으로만 그린 레시피를 냉장고에 붙인다 — 라면, 우유, 치즈, 마늘, 화살표.",
+   "회사 탕비실. 같은 냅킨 그림이 냉장고에 여러 장, 직장인이 그대로 끓인다.",
+   "식품 회사 연구실. 화이트보드 가운데 그 냅킨, 한 연구원이 맛보고 잠깐 멈췄다가 고개를 끄덕인다.",
+   "밤 편의점. 진열대로 손을 뻗던 그가 신라면 툼바 큰사발을 보고 멈춘다.",
+   "편의점 창가. 컵을 가리키며 「이거 내 레시피잖아!」 친구는 못 믿는 표정이다가 한 박자 뒤에 웃음.",
+   "나무 테이블 위 신라면 툼바 큰사발과 그 냅킨 그림, 앞에 김 오르는 툼바 한 컵."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "이거 내 레시피잖아!"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "큰사발"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "조리 모습"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "11_merl",
+  "brand": "제이에스티나 메를",
+  "name": "아끼지 않는 목걸이 · 키비주얼 A",
+  "message": "오늘도 걸 수 있어야 진짜 내 시그니처입니다.",
+  "product": "제이에스티나 메를 14K 펜던트 — 레이스 패턴의 로즈골드 오픈워크 펜던트",
+  "tone": "밝음 — 도자기 공방의 창빛, 셀프 페인팅 하는 새 집, 비 오는 아침 강변, 밤 편의점",
+  "scenes": [
+   "도자기 공방. 흙 튄 앞치마 차림으로 물레 위 흙을 누르기 시작하는 그녀, 쇄골 위 펜던트.",
+   "쇄골 위 펜던트 클로즈업. 아래로 흙 묻은 손이 그릇을 빚는다(흐릿하게).",
+   "이사 온 빈 방에서 롤러로 벽을 칠한다. 페인트 튄 티셔츠, 쇄골 위 펜던트.",
+   "비 오는 아침 강변. 카메라가 옆에서 나란히 따라가고, 두 손으로 손잡이를 잡은 그녀가 공공자전거 페달을 밟는다.",
+   "밤 편의점 창가. 컵라면을 후후 불며 먹는 그녀, 펜던트에 매장 불빛이 자연스럽게 맺힌다.",
+   "다시 공방. 수건에 손을 닦던 친구가 그녀의 펜던트를 보고 「그거 아끼는 거 아니었어?」",
+   "그녀는 대답 대신 흙만 만지며 옆으로 슬쩍 웃고, 친구가 한 박자 뒤에 웃음을 터뜨린다.",
+   "갓 빚은 흙 그릇 옆, 접어 둔 리넨 앞치마 위에 놓인 메를 펜던트."
+  ],
+  "narration": {},
+  "dialogue": {
+   "6": "그거 아끼는 거 아니었어?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "펜던트"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "디테일"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "12_hera_b",
+  "brand": "헤라 블랙 쿠션",
+  "name": "아침 사진, 밤 사진 · 키비주얼 B",
+  "message": "저녁 약속에도 제 피부는 아침 그대로입니다.",
+  "product": "헤라 블랙 쿠션 파운데이션 SPF34/PA++ — 검은 케이스의 롱웨어 쿠션 파운데이션",
+  "tone": "밝은 편 — 사진관의 흰빛, 한낮 지하철, 고깃집 연기, 밤 사진관",
+  "scenes": [
+   "아침 8시 출근길 셀프 사진관. 막 앉아 머리를 넘기는 그녀, 선반엔 열린 검은 쿠션.",
+   "인화된 사진 한 장이 나오고, 왼손에 든 휴대폰 투명 케이스 뒤에 오른손으로 끼운다.",
+   "한낮의 꽉 찬 지하철. 문 옆에 선 그녀만 또렷하고, 승객들은 흐릿한 배경.",
+   "밤 9시 삼겹살 회식. 연기 너머로 그녀가 집게로 고기를 뒤집는다.",
+   "밤 11시, 같은 사진관. 친구가 비집고 들어오며 장난스러운 표정, 그녀는 한 박자 뒤에 웃음.",
+   "아침 사진과 밤 사진 두 장을 나란히 든 손. 피부가 똑같다.",
+   "친구가 두 사진을 보다 그녀 얼굴을 보고 「아침에 찍은 거랑 똑같네?」 그녀는 어깨만 으쓱, 친구가 한 박자 뒤에 웃음.",
+   "두 장의 사진 위에 놓인 헤라 블랙 쿠션."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "아침에 찍은 거랑 똑같네?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "단품(연 모습)"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "케이스 열고 닫은 모습"
+   },
+   {
+    "file": "products/product_03.jpg",
+    "label": "여러 호수"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "13_lactofit_b",
+  "brand": "종근당건강 락토핏 골드",
+  "name": "냉장고 위 노란 줄 · 키비주얼 B",
+  "message": "하루 한 포가 장과 면역을 함께 챙깁니다.",
+  "product": "종근당건강 락토핏 골드 — 아연을 더한 생유산균, 노란 통에 2g 스틱 50포",
+  "tone": "밝음 — 아침 부엌, 비 오는 사무실, 맑은 산 정상",
+  "scenes": [
+   "왼손에 든 노란 스틱의 끝을 오른손이 '칙' 뜯는다.",
+   "아침 7시 부엌, 옆모습. 고개를 젖히고 기울인 스틱에서 가루가 혀 위로 흐른다(물 없이).",
+   "빈 스틱을 냉장고 문 노란 줄 끝에 자석으로 붙인다.",
+   "비 오는 날 사무실 책상, 같은 옆모습 · 같은 동작으로 가루를 털어 넣는다.",
+   "맑은 날 산 정상, 같은 옆모습 · 같은 동작. 털어 넣고 숨을 크게 쉰다.",
+   "50일 뒤 냉장고 문. 빈 노란 스틱이 줄줄이 문 전체를 채웠다.",
+   "룸메이트가 냉장고를 열다 멈춰 노란 줄을 보고 「이게 다 하루 한 포씩이야?」 그녀는 고개만 끄덕, 룸메이트가 한 박자 뒤에 웃음.",
+   "부엌 조리대 위 새 락토핏 골드 통과 스틱 한 포, 뒤로 노란 줄 냉장고."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "이게 다 하루 한 포씩이야?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "통과 스틱"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "14_cass_b",
+  "brand": "카스 0.0",
+  "name": "다음 날 아침 해장국집 · 키비주얼 B",
+  "message": "오늘을 즐기고 내일을 멀쩡하게 가져갑니다.",
+  "product": "카스 0.0 — 무알코올 맥주(은색 캔)",
+  "tone": "밤의 노래방 조명에서 아침 해장국집의 하얀 김으로",
+  "scenes": [
+   "밤의 노래방. 마이크를 든 그녀가 막 환호하려는 참, 왼손엔 카스 0.0. 뒤의 동료들은 흐릿하다.",
+   "노래방 탁자 위 차가운 카스 0.0. 오른손 하나가 들어와 검지로 따개를 당긴다.",
+   "팀장이 탬버린을 머리 위로 들고 한 바퀴 돌다 비틀, 그녀는 입을 가렸다가 한 박자 뒤에 웃음.",
+   "다음 날 아침 8시 해장국집. 선글라스 쓴 팀장이 국밥 앞에서 관자놀이를 천천히 문지른다. 뒤 팀원들은 흐릿하게 엎드려 있다.",
+   "문이 열리고 그녀가 성큼 걸어 들어오며 손을 흔든다.",
+   "그녀는 국밥을 맛있게 뜨고, 팀장은 선글라스를 천천히 내려 그녀를 빤히 본다.",
+   "팀장 「너 어제 우리랑 같이 놀았잖아…?」 그녀는 어깨만 으쓱하고 계속 먹고, 팀장은 한 박자 뒤에 테이블에 고개를 묻는다.",
+   "아침 햇살 속 스테인리스 테이블 위 차가운 카스 0.0 한 캔, 옆에 어젯밤 탬버린."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "너 어제 우리랑 같이 놀았잖아…?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "캔"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "15_toomba_b",
+  "brand": "농심 신라면 툼바",
+  "name": "냅킨 레시피 · 키비주얼 B",
+  "message": "당신이 만든 레시피가 신라면 툼바가 됐습니다.",
+  "product": "농심 신라면 툼바 큰사발 — 크림 소스의 매운 컵라면",
+  "tone": "밤의 자취방 불빛에서 연구실의 하얀 빛, 밝은 밤 편의점으로",
+  "scenes": [
+   "밤 자취방 부엌. 그가 끓는 라면 위로 우유팩을 기울이기 시작한다.",
+   "냄비 접사. 붉은 국물이 우유와 치즈를 만나 꾸덕한 주황빛 크림으로 변한다.",
+   "냅킨에 그림으로만 그린 레시피를 냉장고에 붙인다 — 라면, 우유, 치즈, 마늘, 화살표.",
+   "회사 탕비실. 같은 냅킨 그림이 냉장고에 여러 장, 직장인이 그대로 끓인다.",
+   "식품 회사 연구실. 화이트보드 가운데 그 냅킨, 한 연구원이 맛보고 잠깐 멈췄다가 고개를 끄덕인다.",
+   "밤 편의점. 진열대로 손을 뻗던 그가 신라면 툼바 큰사발을 보고 멈춘다.",
+   "편의점 창가. 컵을 가리키며 「이거 내 레시피잖아!」 친구는 못 믿는 표정이다가 한 박자 뒤에 웃음.",
+   "나무 테이블 위 신라면 툼바 큰사발과 그 냅킨 그림, 앞에 김 오르는 툼바 한 컵."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "이거 내 레시피잖아!"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "큰사발"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "조리 모습"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "16_merl_b",
+  "brand": "제이에스티나 메를",
+  "name": "아끼지 않는 목걸이 · 키비주얼 B",
+  "message": "오늘도 걸 수 있어야 진짜 내 시그니처입니다.",
+  "product": "제이에스티나 메를 14K 펜던트 — 레이스 패턴의 로즈골드 오픈워크 펜던트",
+  "tone": "밝음 — 도자기 공방의 창빛, 셀프 페인팅 하는 새 집, 비 오는 아침 강변, 밤 편의점",
+  "scenes": [
+   "도자기 공방. 흙 튄 앞치마 차림으로 물레 위 흙을 누르기 시작하는 그녀, 쇄골 위 펜던트.",
+   "쇄골 위 펜던트 클로즈업. 아래로 흙 묻은 손이 그릇을 빚는다(흐릿하게).",
+   "이사 온 빈 방에서 롤러로 벽을 칠한다. 페인트 튄 티셔츠, 쇄골 위 펜던트.",
+   "비 오는 아침 강변. 카메라가 옆에서 나란히 따라가고, 두 손으로 손잡이를 잡은 그녀가 공공자전거 페달을 밟는다.",
+   "밤 편의점 창가. 컵라면을 후후 불며 먹는 그녀, 펜던트에 매장 불빛이 자연스럽게 맺힌다.",
+   "다시 공방. 수건에 손을 닦던 친구가 그녀의 펜던트를 보고 「그거 아끼는 거 아니었어?」",
+   "그녀는 대답 대신 흙만 만지며 옆으로 슬쩍 웃고, 친구가 한 박자 뒤에 웃음을 터뜨린다.",
+   "갓 빚은 흙 그릇 옆, 접어 둔 리넨 앞치마 위에 놓인 메를 펜던트."
+  ],
+  "narration": {},
+  "dialogue": {
+   "6": "그거 아끼는 거 아니었어?"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "펜던트"
+   },
+   {
+    "file": "products/product_02.jpg",
+    "label": "디테일"
+   }
+  ],
+  "storyline": "storyline.md"
+ },
+ {
+  "folder": "17_nara",
+  "brand": "IBK 나라사랑카드",
+  "name": "입대부터 전역까지, 한 장",
+  "message": "입대부터 전역까지, 한 장.",
+  "product": "IBK기업은행 나라사랑카드 — 군 장병용 체크카드(은색 메탈 카드)",
+  "tone": "밝음 — 봄 벚꽃, 여름 햇빛, 가을 금빛, 다시 봄",
+  "scenes": [
+   "벚꽃 핀 봄날 훈련소 앞. 까까머리 아들이 돌아보며 씩 웃고, 엄마는 눈물을 참으며 오른손을 흔든다.",
+   "여름 햇빛 드는 PX. 군복 소매의 오른손이 은색 나라사랑카드를 단말기에 댄다. '삑'.",
+   "한여름 PX 앞 벤치. 동기 둘과 아이스크림을 하나씩 들고 크게 웃는다.",
+   "첫 휴가 가는 시내버스. 오른손으로 카드를 찍는 순간, 창밖 가로수가 초록 여름에서 금빛 가을로 물결치듯 바뀐다.",
+   "눈 내리는 겨울밤 초소. 별을 올려다보며 작게 웃는다.",
+   "막사 창가에 놓인 카드. 창밖에서 눈이 녹고 벚꽃이 순식간에 핀다.",
+   "다시 벚꽃 핀 봄, 전역 날. 엄마가 달려와 안기고, 아들이 웃으며 「엄마, 나 왔어!」",
+   "벚꽃잎과 군번줄 옆에 세워진 은색 IBK 나라사랑카드."
+  ],
+  "narration": {},
+  "dialogue": {
+   "7": "엄마, 나 왔어!"
+  },
+  "video": "video.mp4",
+  "seconds": 15,
+  "keyframes": [
+   "keyframes/scene_01.jpg",
+   "keyframes/scene_02.jpg",
+   "keyframes/scene_03.jpg",
+   "keyframes/scene_04.jpg",
+   "keyframes/scene_05.jpg",
+   "keyframes/scene_06.jpg",
+   "keyframes/scene_07.jpg",
+   "keyframes/scene_08.jpg"
+  ],
+  "products": [
+   {
+    "file": "products/product_01.jpg",
+    "label": "카드"
+   }
+  ],
+  "storyline": "storyline.md"
+ }
+]
